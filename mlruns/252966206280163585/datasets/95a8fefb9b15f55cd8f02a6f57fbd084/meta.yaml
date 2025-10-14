@@ -1,0 +1,76 @@
+digest: c492f345
+name: dataset
+profile: '{"num_rows": 1176, "num_elements": 104664}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "EmployeeId", "required": true},
+  {"type": "long", "name": "Age", "required": true}, {"type": "string", "name": "BusinessTravel",
+  "required": true}, {"type": "long", "name": "DailyRate", "required": true}, {"type":
+  "string", "name": "Department", "required": true}, {"type": "long", "name": "DistanceFromHome",
+  "required": true}, {"type": "long", "name": "Education", "required": true}, {"type":
+  "string", "name": "EducationField", "required": true}, {"type": "long", "name":
+  "EmployeeCount", "required": true}, {"type": "long", "name": "EnvironmentSatisfaction",
+  "required": true}, {"type": "string", "name": "Gender", "required": true}, {"type":
+  "long", "name": "HourlyRate", "required": true}, {"type": "long", "name": "JobInvolvement",
+  "required": true}, {"type": "long", "name": "JobLevel", "required": true}, {"type":
+  "string", "name": "JobRole", "required": true}, {"type": "long", "name": "JobSatisfaction",
+  "required": true}, {"type": "string", "name": "MaritalStatus", "required": true},
+  {"type": "long", "name": "MonthlyIncome", "required": true}, {"type": "long", "name":
+  "MonthlyRate", "required": true}, {"type": "long", "name": "NumCompaniesWorked",
+  "required": true}, {"type": "string", "name": "Over18", "required": true}, {"type":
+  "string", "name": "OverTime", "required": true}, {"type": "long", "name": "PercentSalaryHike",
+  "required": true}, {"type": "long", "name": "PerformanceRating", "required": true},
+  {"type": "long", "name": "RelationshipSatisfaction", "required": true}, {"type":
+  "long", "name": "StandardHours", "required": true}, {"type": "long", "name": "StockOptionLevel",
+  "required": true}, {"type": "long", "name": "TotalWorkingYears", "required": true},
+  {"type": "long", "name": "TrainingTimesLastYear", "required": true}, {"type": "long",
+  "name": "WorkLifeBalance", "required": true}, {"type": "long", "name": "YearsAtCompany",
+  "required": true}, {"type": "long", "name": "YearsInCurrentRole", "required": true},
+  {"type": "long", "name": "YearsSinceLastPromotion", "required": true}, {"type":
+  "long", "name": "YearsWithCurrManager", "required": true}, {"type": "long", "name":
+  "Employeeid", "required": true}, {"type": "long", "name": "Age.1", "required": true},
+  {"type": "long", "name": "Dailyrate", "required": true}, {"type": "long", "name":
+  "Distancefromhome", "required": true}, {"type": "long", "name": "Education.1", "required":
+  true}, {"type": "long", "name": "Employeecount", "required": true}, {"type": "long",
+  "name": "Environmentsatisfaction", "required": true}, {"type": "long", "name": "Hourlyrate",
+  "required": true}, {"type": "long", "name": "Jobinvolvement", "required": true},
+  {"type": "long", "name": "Joblevel", "required": true}, {"type": "long", "name":
+  "Jobsatisfaction", "required": true}, {"type": "long", "name": "Monthlyincome",
+  "required": true}, {"type": "long", "name": "Monthlyrate", "required": true}, {"type":
+  "long", "name": "Numcompaniesworked", "required": true}, {"type": "long", "name":
+  "Percentsalaryhike", "required": true}, {"type": "long", "name": "Performancerating",
+  "required": true}, {"type": "long", "name": "Relationshipsatisfaction", "required":
+  true}, {"type": "long", "name": "Standardhours", "required": true}, {"type": "long",
+  "name": "Stockoptionlevel", "required": true}, {"type": "long", "name": "Totalworkingyears",
+  "required": true}, {"type": "long", "name": "Trainingtimeslastyear", "required":
+  true}, {"type": "long", "name": "Worklifebalance", "required": true}, {"type": "long",
+  "name": "Yearsatcompany", "required": true}, {"type": "long", "name": "Yearsincurrentrole",
+  "required": true}, {"type": "long", "name": "Yearssincelastpromotion", "required":
+  true}, {"type": "long", "name": "Yearswithcurrmanager", "required": true}, {"type":
+  "boolean", "name": "Businesstravel Non-Travel", "required": true}, {"type": "boolean",
+  "name": "Businesstravel Travel Frequently", "required": true}, {"type": "boolean",
+  "name": "Businesstravel Travel Rarely", "required": true}, {"type": "boolean", "name":
+  "Department Human Resources", "required": true}, {"type": "boolean", "name": "Department
+  Research & Development", "required": true}, {"type": "boolean", "name": "Department
+  Sales", "required": true}, {"type": "boolean", "name": "Educationfield Human Resources",
+  "required": true}, {"type": "boolean", "name": "Educationfield Life Sciences", "required":
+  true}, {"type": "boolean", "name": "Educationfield Marketing", "required": true},
+  {"type": "boolean", "name": "Educationfield Medical", "required": true}, {"type":
+  "boolean", "name": "Educationfield Other", "required": true}, {"type": "boolean",
+  "name": "Educationfield Technical Degree", "required": true}, {"type": "boolean",
+  "name": "Gender Female", "required": true}, {"type": "boolean", "name": "Gender
+  Male", "required": true}, {"type": "boolean", "name": "Jobrole Healthcare Representative",
+  "required": true}, {"type": "boolean", "name": "Jobrole Human Resources", "required":
+  true}, {"type": "boolean", "name": "Jobrole Laboratory Technician", "required":
+  true}, {"type": "boolean", "name": "Jobrole Manager", "required": true}, {"type":
+  "boolean", "name": "Jobrole Manufacturing Director", "required": true}, {"type":
+  "boolean", "name": "Jobrole Research Director", "required": true}, {"type": "boolean",
+  "name": "Jobrole Research Scientist", "required": true}, {"type": "boolean", "name":
+  "Jobrole Sales Executive", "required": true}, {"type": "boolean", "name": "Jobrole
+  Sales Representative", "required": true}, {"type": "boolean", "name": "Maritalstatus
+  Divorced", "required": true}, {"type": "boolean", "name": "Maritalstatus Married",
+  "required": true}, {"type": "boolean", "name": "Maritalstatus Single", "required":
+  true}, {"type": "boolean", "name": "Over18 Y", "required": true}, {"type": "boolean",
+  "name": "Overtime No", "required": true}, {"type": "boolean", "name": "Overtime
+  Yes", "required": true}]}'
+source: '{"tags": {"mlflow.user": "HP", "mlflow.source.name": "modeling.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

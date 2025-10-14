@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/dsp-attrition-model/mlruns/252966206280163585/8e4d321dbf364321af9babf5bcb86700/artifacts
+end_time: 1759888235773
+entry_point_name: ''
+experiment_id: '252966206280163585'
+lifecycle_stage: active
+run_id: 8e4d321dbf364321af9babf5bcb86700
+run_name: RandomForest_Attrition
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759888235315
+status: 4
+tags: []
+user_id: HP
