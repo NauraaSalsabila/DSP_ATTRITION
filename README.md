@@ -1,27 +1,11 @@
 # DSP Attrition Model
 
-Project ini menggunakan MLflow untuk tracking experiment pada prediksi attrition.
+Project ini menggunakan **MLflow** untuk tracking experiment pada prediksi attrition.
 
-## Struktur Folder
+---
 
-- `.gitignore` - File untuk mengabaikan file/folder tertentu di git
-- `README.md` - Dokumentasi project
-- `modeling.py` - Script utama untuk modeling
-- `requirements.txt` - Daftar dependencies
-- `data/` - Folder untuk menyimpan data
-    - `data_clean.csv` - Data yang sudah di-preprocessing
+## 🔗 Link Penting
 
-## Cara Menjalankan
-
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Jalankan script modeling:
-   ```bash
-   python modeling.py
-   ```
-3. Tracking experiment dapat dilakukan dengan MLflow UI:
-   ```bash
-   mlflow ui
-   ```
+- **GitHub Attrition App:** [https://github.com/NauraaSalsabila/DSP](https://github.com/NauraaSalsabila/DSP)  
+- **Link Website:** [https://dsp-production-84a3.up.railway.app/](https://dsp-production-84a3.up.railway.app/)  
+- **Link Laporan:** [https://drive.google.com/file/d/1q4KCIbS2SRzw4_sZS5mhQG3daJS3GE5G/view?usp=sharing](https://drive.google.com/file/d/1q4KCIbS2SRzw4_sZS5mhQG3daJS3GE5G/view?usp=sharing)
